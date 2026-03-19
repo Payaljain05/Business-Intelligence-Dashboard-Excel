@@ -3,6 +3,11 @@
 > **Power Pivot | Advanced Pivot Tables | Interactive Slicers | Revenue vs Budget Analysis**
 
 ---
+### **LIVE INTERACTIVE DEMO**
+
+<video width="100%" height="400" controls>
+  <source src="Live_Demo.mp4" type="video/mp4">
+</video>
 
 ## Project Overview
 
