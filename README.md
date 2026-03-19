@@ -4,9 +4,7 @@
 
 ---
 ### **LIVE INTERACTIVE DEMO**
-<video width="100%" height="400" controls>
-  <source src="Live_Demo.mp4" type="video/mp4">
-</video>
+![Live Demo](Live_demo.gif)
 
 ## Project Overview
 
