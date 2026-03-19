@@ -15,7 +15,7 @@ performance, profitability, and budget variance.
 
 ## Dashboard Preview
 
-![Sales Dashboard](Dashboard.jpg)
+![Sales Dashboard](Dashboard.png)
 
 ---
 
