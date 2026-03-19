@@ -1,11 +1,10 @@
-
 # Excel Sales Performance Dashboard
 
 > **Power Pivot | Advanced Pivot Tables | Interactive Slicers | Revenue vs Budget Analysis**
 
 ---
 ### **LIVE INTERACTIVE DEMO**
-<video src="Live_demo.mp4" width="100%" autoplay loop muted></video>
+<video src="Live_demo.mp4" width="100%" autoplay loop></video>
 
 ## Project Overview
 
