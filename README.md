@@ -1,10 +1,11 @@
-<img width="1306" height="610" alt="image" src="https://github.com/user-attachments/assets/e48e372d-0b45-4690-9e91-e4f1205b72ef" /># Excel Sales Performance Dashboard
+
+# Excel Sales Performance Dashboard
 
 > **Power Pivot | Advanced Pivot Tables | Interactive Slicers | Revenue vs Budget Analysis**
 
 ---
 ### **LIVE INTERACTIVE DEMO**
-![Live Demo](Live_demo.gif)){width=100% height=500px}
+<img src="Live_demo.gif" width="100%" alt="Live Demo"/>
 
 ## Project Overview
 
