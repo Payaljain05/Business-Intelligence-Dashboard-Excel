@@ -5,7 +5,7 @@
 
 ---
 ### **LIVE INTERACTIVE DEMO**
-<img src="Live_demo.gif" width="100%" alt="Live Demo"/>
+<video src="Live_demo.mp4" width="100%" autoplay loop muted></video>
 
 ## Project Overview
 
