@@ -116,17 +116,6 @@ performance, profitability, and budget variance.
 
 ---
 
-## Repository Structure
-excel-sales-performance dashboard/
-│
-├── README.md
-├── Analysis.xlsx    # Main interactive dashboard
-├── Dataset.xlsx     # Raw sales dataset
-├── dashboard.png    # Full dashboard view
-├── dataset.png      # Dataset overview
-
----
-
 ## Related Projects
 
 - [E-Commerce Sales Dashboard — SQL + Excel](https://github.com/Payaljain05/E-Commerce-Sales-Analytics-Dashboard)
