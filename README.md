@@ -33,8 +33,8 @@ performance, profitability, and budget variance.
 
 ## Key KPIs
 
-| Metric | Actual | vs Budget | Status |
-|--------|--------|-----------|--------|
+| Metric | Actual | vs Budget |
+|--------|--------|-----------|
 | **Total Revenue** | £21,39,83,614 | +1.8% |
 | **Total Profit** | £5,64,29,310 | -6.6% |
 | **Profit Margin** | 26.37% | -8.3% |
