@@ -1,4 +1,4 @@
-# Excel Sales Performance Dashboard
+# Business-Intelligence-Dashboard-Excel
 
 > **Power Pivot | Advanced Pivot Tables | Interactive Slicers | Revenue vs Budget Analysis**
 
